@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\wLoadFiles\wLoadFiles\bin\Debug\wLoadFiles.exe.config
+C:\Users\Usuario\source\repos\wLoadFiles\wLoadFiles\bin\Debug\wLoadFiles.exe
+C:\Users\Usuario\source\repos\wLoadFiles\wLoadFiles\bin\Debug\wLoadFiles.pdb
+C:\Users\Usuario\source\repos\wLoadFiles\wLoadFiles\obj\Debug\wLoadFiles.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\wLoadFiles\wLoadFiles\obj\Debug\wLoadFiles.frmPlano.resources
+C:\Users\Usuario\source\repos\wLoadFiles\wLoadFiles\obj\Debug\wLoadFiles.Properties.Resources.resources
+C:\Users\Usuario\source\repos\wLoadFiles\wLoadFiles\obj\Debug\wLoadFiles.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\wLoadFiles\wLoadFiles\obj\Debug\wLoadFiles.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\wLoadFiles\wLoadFiles\obj\Debug\wLoadFiles.exe
+C:\Users\Usuario\source\repos\wLoadFiles\wLoadFiles\obj\Debug\wLoadFiles.pdb
