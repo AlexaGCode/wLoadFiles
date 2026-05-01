@@ -18,7 +18,7 @@ Implementar una aplicación Windows Forms que permita seleccionar, leer y visual
 
 ## Tecnologías utilizadas
 
-- C#
+- CSharp
 - Windows Forms
 - .NET Framework 4.7.2
 - Visual Studio
