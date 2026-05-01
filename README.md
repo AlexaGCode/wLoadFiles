@@ -100,27 +100,6 @@ Precio: 45000
 Proveedor: TecnoStore
 ```
 
----
-
-### Archivo CSV `.csv`
-
-Crear un archivo llamado:
-
-```text
-productos.csv
-```
-
-Contenido sugerido:
-
-```csv
-Mouse inalámbrico;15;45000
-Teclado mecánico;8;120000
-Monitor 24 pulgadas;5;680000
-Memoria USB 64GB;20;32000
-```
-
----
-
 ## Observaciones técnicas
 
 El desarrollo cumple con el objetivo básico de cargar archivos, pero puede mejorarse en varios aspectos:
